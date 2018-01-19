@@ -1,0 +1,3 @@
+INSERT INTO PEOPLE VALUES (1, 'Joe', 'Jackson');
+INSERT INTO PEOPLE VALUES (2, 'Hunter', 'Fisher');
+INSERT INTO PEOPLE VALUES (3, 'Sally', 'Sue');
